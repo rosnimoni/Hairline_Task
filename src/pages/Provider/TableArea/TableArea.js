@@ -5,19 +5,13 @@ import { Table, Button,Row,Col } from "antd";
 import style from "./TableArea.module.css";
 import SingleProvider from '../SingleProviderDetails/SingleProvider.js';
 import profileImage from '../SingleProviderDetails/Images/profile_img.png';
-import { StarFilled } from "@ant-design/icons";
+import { StarFilled , EyeOutlined ,EditOutlined ,DeleteFilled} from "@ant-design/icons";
 
 const TableData = () => {
   const [tableData, setTableData] = React.useState([]);
-  const [flightData, setFlightData] = React.useState("");
-  const [aircraftData, setAircraftData] = React.useState("");
-  const [departureData, setDepartureData] = React.useState("");
-  const [arrivalDataCol, setArrivalDataCol] = React.useState("");
-  const [durationData, setDurationData] = React.useState("");
   function getTableData() {
     setTableData(myData.data);
   }
-  console.log("data", myData.data.providerName);
   useEffect(() => {
     getTableData();
   }, []);
@@ -43,7 +37,7 @@ const TableData = () => {
                 />
               </Col>
               <Col xxl={16} lg={16} md={16} sm={24}>
-                <div style={styles}>{record.providerName}
+                <div style={styles}>{record.providerName ? record.providerName : "-"}
                 </div>
               </Col>
             </Row>
@@ -61,7 +55,7 @@ const TableData = () => {
         const styles = {
           border: "1px solid rgba(0, 0, 0, 0.05)",
         };
-            return <div style={styles}>{record.emailAddress}</div>;
+            return <div style={styles}>{record.emailAddress ? record.emailAddress : "-"}</div>;
 
       },
     },
@@ -72,7 +66,7 @@ const TableData = () => {
         const styles = {
           border: "1px solid rgba(0, 0, 0, 0.05)",
         };       
-          return <div style={styles}>{record ? record.phoneNumber : ""}</div>;
+          return <div style={styles}>{record.phoneNumber ? record.phoneNumber : ""}</div>;
 
       },
     },
@@ -96,24 +90,20 @@ const TableData = () => {
           border: "1px solid rgba(0, 0, 0, 0.05)",
           textAlign: "center"
         };
-        return record?.data?.map((data, i) => {
-          return <div style={styles}>{data.staff.length}</div>;
-          // return data.staff.map((segment, i) => {
-          //   return <div style={styles}>{segment.length}</div>;
-          // });
-        });
+        
+          return <div style={styles}>{record?.staff.length ? record?.staff.length : "-"}</div>;
+          
       },
     },
     {
       title: "RATING",
       dataIndex: "rating",
       render: (text, record) => {
-        console.log("sjdbfsjd",record)
         const styles = {
           border: "1px solid rgba(0, 0, 0, 0.05)",
         };
           return record.reviews.map((data, i) => {
-            return <div style={styles}> <StarFilled /> &nbsp; {data ? data.rating : "-"}</div>;
+            return <div style={styles}> <StarFilled /> &nbsp; {data.rating ? data.rating : "-"}</div>;
           });
         
 
@@ -125,18 +115,20 @@ const TableData = () => {
       render: (text, record) => {
         const styles = {
           border: "1px solid rgba(0, 0, 0, 0.05)",
-          textAlign: "center"
+          textAlign: "center",
+          display:"flex",
+          flexDirection:"row",
+          justifyContent:"space-between"
         };
         return (
           <div style={styles}>
-            
-
             <Link to="/SingleProviderDetails">
-              <Button type="primary" size="large">
-              <li>View</li>
-
-            </Button>
+              <li><EyeOutlined /></li>  
           </Link>
+            
+            <EditOutlined />
+            <DeleteFilled />
+            
           </div >
         );
       },

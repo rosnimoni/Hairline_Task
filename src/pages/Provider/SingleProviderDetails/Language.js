@@ -65,7 +65,7 @@ const Language = () => {
                 <Row>
                     {Languages.map((data, i) => {
                         return (
-                            <Col md={6} sm={3}>
+                            <Col md={6} sm={3} key={i}>
                                 <div className={`${style.language_layout} ${style.tag_lg_lan}`}>
                                     {data.name}
                                 </div>

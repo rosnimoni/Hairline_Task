@@ -44,7 +44,7 @@ const AwardAndRecog = () => {
                 <Divider />
                 {Award.map((data, i) => {
                     return (
-                        <Row>
+                        <Row key={i}>
                             <Col md={4}>
                                 <img src={Profile_img} alt="Logo" height={82} width={82} />
                             </Col>
