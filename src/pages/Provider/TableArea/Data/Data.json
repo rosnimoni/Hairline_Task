@@ -1,1150 +1,760 @@
 {
-    "flightOffer": [
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T23:30:00" },
-                "arrival": { "iataCode": "IST", "at": "2022-11-23T05:40:00" },
-                "marketingCarrier": "TK",
-                "carrierCode": "TK",
-                "flightNumber": "723",
-                "aircraft": "333"
-              },
-              {
-                "departure": { "iataCode": "IST", "at": "2022-11-23T12:55:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-23T13:30:00" },
-                "marketingCarrier": "TK",
-                "carrierCode": "TK",
-                "flightNumber": "1865",
-                "aircraft": "73H"
-              }
-            ],
-            "duration": "19H 00M"
-          }
-        ],
-        "price": "632.30",
-        "fareBasis": [["EF1PXOW", "EF1PXOW"]],
-        "class": [["E", "E"]],
-        "seat": [["9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T06:55:00" },
-                "arrival": { "iataCode": "IST", "at": "2022-11-22T12:55:00" },
-                "marketingCarrier": "TK",
-                "carrierCode": "TK",
-                "flightNumber": "713",
-                "aircraft": "333"
-              },
-              {
-                "departure": { "iataCode": "IST", "at": "2022-11-22T20:30:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-22T21:20:00" },
-                "marketingCarrier": "TK",
-                "carrierCode": "TK",
-                "flightNumber": "1361",
-                "aircraft": "73H"
-              }
-            ],
-            "duration": "19H 25M"
-          }
-        ],
-        "price": "632.30",
-        "fareBasis": [["EF1PXOW", "EF1PXOW"]],
-        "class": [["E", "E"]],
-        "seat": [["9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T23:30:00" },
-                "arrival": { "iataCode": "IST", "at": "2022-11-23T05:40:00" },
-                "marketingCarrier": "TK",
-                "carrierCode": "TK",
-                "flightNumber": "723",
-                "aircraft": "333"
-              },
-              {
-                "departure": { "iataCode": "IST", "at": "2022-11-23T17:25:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-23T18:00:00" },
-                "marketingCarrier": "TK",
-                "carrierCode": "TK",
-                "flightNumber": "1863",
-                "aircraft": "73H"
-              }
-            ],
-            "duration": "23H 30M"
-          }
-        ],
-        "price": "632.30",
-        "fareBasis": [["EF1PXOW", "EF1PXOW"]],
-        "class": [["E", "E"]],
-        "seat": [["9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T23:30:00" },
-                "arrival": { "iataCode": "IST", "at": "2022-11-23T05:40:00" },
-                "marketingCarrier": "TK",
-                "carrierCode": "TK",
-                "flightNumber": "723",
-                "aircraft": "333"
-              },
-              {
-                "departure": { "iataCode": "IST", "at": "2022-11-23T20:30:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-23T21:20:00" },
-                "marketingCarrier": "TK",
-                "carrierCode": "TK",
-                "flightNumber": "1361",
-                "aircraft": "73H"
-              }
-            ],
-            "duration": "26H 50M"
-          }
-        ],
-        "price": "632.30",
-        "fareBasis": [["EF1PXOW", "EF1PXOW"]],
-        "class": [["E", "E"]],
-        "seat": [["9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T09:55:00" },
-                "arrival": { "iataCode": "DXB", "at": "2022-11-22T13:20:00" },
-                "marketingCarrier": "EK",
-                "carrierCode": "EK",
-                "flightNumber": "583",
-                "aircraft": "77W"
-              },
-              {
-                "departure": { "iataCode": "DXB", "at": "2022-11-22T15:05:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-22T18:45:00" },
-                "marketingCarrier": "EK",
-                "carrierCode": "EK",
-                "flightNumber": "95",
-                "aircraft": "388"
-              }
-            ],
-            "duration": "13H 50M"
-          }
-        ],
-        "price": "725.57",
-        "fareBasis": [["QSSOPBD1", "QSSOPBD1"]],
-        "class": [["Q", "Q"]],
-        "seat": [["9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T18:40:00" },
-                "arrival": { "iataCode": "DXB", "at": "2022-11-22T22:10:00" },
-                "marketingCarrier": "EK",
-                "carrierCode": "EK",
-                "flightNumber": "587",
-                "aircraft": "77W"
-              },
-              {
-                "departure": { "iataCode": "DXB", "at": "2022-11-23T15:05:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-23T18:45:00" },
-                "marketingCarrier": "EK",
-                "carrierCode": "EK",
-                "flightNumber": "95",
-                "aircraft": "388"
-              }
-            ],
-            "duration": "29H 05M"
-          }
-        ],
-        "price": "725.57",
-        "fareBasis": [["QSSOPBD1", "QSSOPBD1"]],
-        "class": [["Q", "Q"]],
-        "seat": [["9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T23:30:00" },
-                "arrival": { "iataCode": "IST", "at": "2022-11-23T05:40:00" },
-                "marketingCarrier": "TK",
-                "carrierCode": "TK",
-                "flightNumber": "723",
-                "aircraft": "333"
-              },
-              {
-                "departure": { "iataCode": "IST", "at": "2022-11-23T09:10:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-23T09:45:00" },
-                "marketingCarrier": "TK",
-                "carrierCode": "TK",
-                "flightNumber": "1861",
-                "aircraft": "73H"
-              }
-            ],
-            "duration": "15H 15M"
-          }
-        ],
-        "price": "732.30",
-        "fareBasis": [["OF1PXOW", "OF1PXOW"]],
-        "class": [["O", "O"]],
-        "seat": [["9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T06:55:00" },
-                "arrival": { "iataCode": "IST", "at": "2022-11-22T12:55:00" },
-                "marketingCarrier": "TK",
-                "carrierCode": "TK",
-                "flightNumber": "713",
-                "aircraft": "333"
-              },
-              {
-                "departure": { "iataCode": "IST", "at": "2022-11-22T17:25:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-22T18:00:00" },
-                "marketingCarrier": "TK",
-                "carrierCode": "TK",
-                "flightNumber": "1863",
-                "aircraft": "73H"
-              }
-            ],
-            "duration": "16H 05M"
-          }
-        ],
-        "price": "732.30",
-        "fareBasis": [["OF1PXOW", "OF1PXOW"]],
-        "class": [["O", "O"]],
-        "seat": [["9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T06:55:00" },
-                "arrival": { "iataCode": "IST", "at": "2022-11-22T12:55:00" },
-                "marketingCarrier": "TK",
-                "carrierCode": "TK",
-                "flightNumber": "713",
-                "aircraft": "333"
-              },
-              {
-                "departure": { "iataCode": "IST", "at": "2022-11-23T12:55:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-23T13:30:00" },
-                "marketingCarrier": "TK",
-                "carrierCode": "TK",
-                "flightNumber": "1865",
-                "aircraft": "73H"
-              }
-            ],
-            "duration": "35H 35M"
-          }
-        ],
-        "price": "732.30",
-        "fareBasis": [["OF1PXOW", "OF1PXOW"]],
-        "class": [["O", "O"]],
-        "seat": [["7", "7"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T11:50:00" },
-                "arrival": { "iataCode": "KWI", "at": "2022-11-22T14:35:00" },
-                "marketingCarrier": "KU",
-                "carrierCode": "KU",
-                "flightNumber": "286",
-                "aircraft": "77W"
-              },
-              {
-                "departure": { "iataCode": "KWI", "at": "2022-11-23T08:40:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-23T12:10:00" },
-                "marketingCarrier": "KU",
-                "carrierCode": "KU",
-                "flightNumber": "165",
-                "aircraft": "32A"
-              }
-            ],
-            "duration": "29H 20M"
-          }
-        ],
-        "price": "745.15",
-        "fareBasis": [["VOWBD1", "VOWBD1"]],
-        "class": [["V", "V"]],
-        "seat": [["9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T06:55:00" },
-                "arrival": { "iataCode": "IST", "at": "2022-11-22T12:55:00" },
-                "marketingCarrier": "TK",
-                "carrierCode": "TK",
-                "flightNumber": "713",
-                "aircraft": "333"
-              },
-              {
-                "departure": { "iataCode": "IST", "at": "2022-11-23T09:10:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-23T09:45:00" },
-                "marketingCarrier": "TK",
-                "carrierCode": "TK",
-                "flightNumber": "1861",
-                "aircraft": "73H"
-              }
-            ],
-            "duration": "31H 50M"
-          }
-        ],
-        "price": "812.30",
-        "fareBasis": [["SF1PXOW", "SF1PXOW"]],
-        "class": [["S", "S"]],
-        "seat": [["2", "2"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T20:40:00" },
-                "arrival": { "iataCode": "AUH", "at": "2022-11-23T00:40:00" },
-                "marketingCarrier": "EY",
-                "carrierCode": "3L",
-                "flightNumber": "1367",
-                "aircraft": "320"
-              },
-              {
-                "departure": { "iataCode": "AUH", "at": "2022-11-23T03:00:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-23T06:20:00" },
-                "marketingCarrier": "EY",
-                "carrierCode": "EY",
-                "flightNumber": "85",
-                "aircraft": "789"
-              }
-            ],
-            "duration": "14H 40M"
-          }
-        ],
-        "price": "833.57",
-        "fareBasis": [["QC1BD", "QC1BD"]],
-        "class": [["Q", "Q"]],
-        "seat": [["9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T05:00:00" },
-                "arrival": { "iataCode": "AUH", "at": "2022-11-22T08:00:00" },
-                "marketingCarrier": "EY",
-                "carrierCode": "EY",
-                "flightNumber": "235",
-                "aircraft": "789"
-              },
-              {
-                "departure": { "iataCode": "AUH", "at": "2022-11-23T03:00:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-23T06:20:00" },
-                "marketingCarrier": "EY",
-                "carrierCode": "EY",
-                "flightNumber": "85",
-                "aircraft": "789"
-              }
-            ],
-            "duration": "30H 20M"
-          }
-        ],
-        "price": "833.57",
-        "fareBasis": [["QC1BD", "QC1BD"]],
-        "class": [["Q", "Q"]],
-        "seat": [["9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T01:00:00" },
-                "arrival": { "iataCode": "DXB", "at": "2022-11-22T04:25:00" },
-                "marketingCarrier": "EK",
-                "carrierCode": "EK",
-                "flightNumber": "585",
-                "aircraft": "77W"
-              },
-              {
-                "departure": { "iataCode": "DXB", "at": "2022-11-22T08:55:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-22T12:40:00" },
-                "marketingCarrier": "EK",
-                "carrierCode": "EK",
-                "flightNumber": "97",
-                "aircraft": "77W"
-              }
-            ],
-            "duration": "16H 40M"
-          }
-        ],
-        "price": "845.57",
-        "fareBasis": [["KSSOSBD1", "KSSOSBD1"]],
-        "class": [["K", "K"]],
-        "seat": [["9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T01:00:00" },
-                "arrival": { "iataCode": "DXB", "at": "2022-11-22T04:25:00" },
-                "marketingCarrier": "EK",
-                "carrierCode": "EK",
-                "flightNumber": "585",
-                "aircraft": "77W"
-              },
-              {
-                "departure": { "iataCode": "DXB", "at": "2022-11-22T15:05:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-22T18:45:00" },
-                "marketingCarrier": "EK",
-                "carrierCode": "EK",
-                "flightNumber": "95",
-                "aircraft": "388"
-              }
-            ],
-            "duration": "22H 45M"
-          }
-        ],
-        "price": "845.57",
-        "fareBasis": [["KSSOSBD1", "KSSOSBD1"]],
-        "class": [["K", "K"]],
-        "seat": [["9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T12:30:00" },
-                "arrival": { "iataCode": "KUL", "at": "2022-11-22T18:40:00" },
-                "marketingCarrier": "MH",
-                "carrierCode": "MH",
-                "flightNumber": "103",
-                "aircraft": "738"
-              },
-              {
-                "departure": { "iataCode": "KUL", "at": "2022-11-23T01:45:00" },
-                "arrival": { "iataCode": "DXB", "at": "2022-11-23T05:05:00" },
-                "marketingCarrier": "MH",
-                "carrierCode": "EK",
-                "flightNumber": "4501",
-                "aircraft": "77W"
-              },
-              {
-                "departure": { "iataCode": "DXB", "at": "2022-11-23T15:05:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-23T18:45:00" },
-                "marketingCarrier": "MH",
-                "carrierCode": "EK",
-                "flightNumber": "4559",
-                "aircraft": "388"
-              }
-            ],
-            "duration": "35H 15M"
-          }
-        ],
-        "price": "958.35",
-        "fareBasis": [["NHBCOEXX", "NHBCOEXX", "NHBCOEXX"]],
-        "class": [["N", "N", "N"]],
-        "seat": [["9", "9", "7"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T00:50:00" },
-                "arrival": { "iataCode": "KUL", "at": "2022-11-22T06:50:00" },
-                "marketingCarrier": "MH",
-                "carrierCode": "MH",
-                "flightNumber": "197",
-                "aircraft": "738"
-              },
-              {
-                "departure": { "iataCode": "KUL", "at": "2022-11-23T01:45:00" },
-                "arrival": { "iataCode": "DXB", "at": "2022-11-23T05:05:00" },
-                "marketingCarrier": "MH",
-                "carrierCode": "EK",
-                "flightNumber": "4501",
-                "aircraft": "77W"
-              },
-              {
-                "departure": { "iataCode": "DXB", "at": "2022-11-23T15:05:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-23T18:45:00" },
-                "marketingCarrier": "MH",
-                "carrierCode": "EK",
-                "flightNumber": "4559",
-                "aircraft": "388"
-              }
-            ],
-            "duration": "46H 55M"
-          }
-        ],
-        "price": "978.27",
-        "fareBasis": [["NHBCOEXX", "NHBCOEXX", "NHBCOEXX"]],
-        "class": [["N", "N", "N"]],
-        "seat": [["9", "9", "7"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T12:30:00" },
-                "arrival": { "iataCode": "KUL", "at": "2022-11-22T18:40:00" },
-                "marketingCarrier": "MH",
-                "carrierCode": "MH",
-                "flightNumber": "103",
-                "aircraft": "738"
-              },
-              {
-                "departure": { "iataCode": "KUL", "at": "2022-11-23T02:45:00" },
-                "arrival": { "iataCode": "DOH", "at": "2022-11-23T05:30:00" },
-                "marketingCarrier": "MH",
-                "carrierCode": "QR",
-                "flightNumber": "9054",
-                "aircraft": "77W"
-              },
-              {
-                "departure": { "iataCode": "DOH", "at": "2022-11-23T09:30:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-23T13:45:00" },
-                "marketingCarrier": "MH",
-                "carrierCode": "QR",
-                "flightNumber": "9239",
-                "aircraft": "333"
-              }
-            ],
-            "duration": "30H 15M"
-          }
-        ],
-        "price": "1028.46",
-        "fareBasis": [["QFLOWBD", "VFLOWMY", "VFLOWMY"]],
-        "class": [["Q", "V", "V"]],
-        "seat": [["9", "4", "4"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T12:30:00" },
-                "arrival": { "iataCode": "KUL", "at": "2022-11-22T18:40:00" },
-                "marketingCarrier": "MH",
-                "carrierCode": "MH",
-                "flightNumber": "103",
-                "aircraft": "738"
-              },
-              {
-                "departure": { "iataCode": "KUL", "at": "2022-11-23T02:45:00" },
-                "arrival": { "iataCode": "DOH", "at": "2022-11-23T05:30:00" },
-                "marketingCarrier": "MH",
-                "carrierCode": "QR",
-                "flightNumber": "9054",
-                "aircraft": "77W"
-              },
-              {
-                "departure": { "iataCode": "DOH", "at": "2022-11-24T02:00:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-24T06:15:00" },
-                "marketingCarrier": "MH",
-                "carrierCode": "QR",
-                "flightNumber": "9237",
-                "aircraft": "788"
-              }
-            ],
-            "duration": "46H 45M"
-          }
-        ],
-        "price": "1032.06",
-        "fareBasis": [["QFLOWBD", "VFLOWMY", "VFLOWMY"]],
-        "class": [["Q", "V", "V"]],
-        "seat": [["9", "4", "4"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T08:55:00" },
-                "arrival": { "iataCode": "DXB", "at": "2022-11-22T12:45:00" },
-                "marketingCarrier": "EK",
-                "carrierCode": "FZ",
-                "flightNumber": "2331",
-                "aircraft": "73H"
-              },
-              {
-                "departure": { "iataCode": "DXB", "at": "2022-11-22T15:05:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-22T18:45:00" },
-                "marketingCarrier": "EK",
-                "carrierCode": "EK",
-                "flightNumber": "95",
-                "aircraft": "388"
-              }
-            ],
-            "duration": "14H 50M"
-          }
-        ],
-        "price": "1037.57",
-        "fareBasis": [["BSSOSBD1", "BSSOSBD1"]],
-        "class": [["B", "B"]],
-        "seat": [["9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T00:50:00" },
-                "arrival": { "iataCode": "KUL", "at": "2022-11-22T06:50:00" },
-                "marketingCarrier": "MH",
-                "carrierCode": "MH",
-                "flightNumber": "197",
-                "aircraft": "738"
-              },
-              {
-                "departure": { "iataCode": "KUL", "at": "2022-11-23T02:45:00" },
-                "arrival": { "iataCode": "DOH", "at": "2022-11-23T05:30:00" },
-                "marketingCarrier": "MH",
-                "carrierCode": "QR",
-                "flightNumber": "9054",
-                "aircraft": "77W"
-              },
-              {
-                "departure": { "iataCode": "DOH", "at": "2022-11-23T09:30:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-23T13:45:00" },
-                "marketingCarrier": "MH",
-                "carrierCode": "QR",
-                "flightNumber": "9239",
-                "aircraft": "333"
-              }
-            ],
-            "duration": "41H 55M"
-          }
-        ],
-        "price": "1048.38",
-        "fareBasis": [["QFLOWBD", "VFLOWMY", "VFLOWMY"]],
-        "class": [["Q", "V", "V"]],
-        "seat": [["9", "4", "4"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T00:50:00" },
-                "arrival": { "iataCode": "KUL", "at": "2022-11-22T06:50:00" },
-                "marketingCarrier": "MH",
-                "carrierCode": "MH",
-                "flightNumber": "197",
-                "aircraft": "738"
-              },
-              {
-                "departure": { "iataCode": "KUL", "at": "2022-11-23T02:45:00" },
-                "arrival": { "iataCode": "DOH", "at": "2022-11-23T05:30:00" },
-                "marketingCarrier": "MH",
-                "carrierCode": "QR",
-                "flightNumber": "9054",
-                "aircraft": "77W"
-              },
-              {
-                "departure": { "iataCode": "DOH", "at": "2022-11-24T02:00:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-24T06:15:00" },
-                "marketingCarrier": "MH",
-                "carrierCode": "QR",
-                "flightNumber": "9237",
-                "aircraft": "788"
-              }
-            ],
-            "duration": "58H 25M"
-          }
-        ],
-        "price": "1051.98",
-        "fareBasis": [["QFLOWBD", "VFLOWMY", "VFLOWMY"]],
-        "class": [["Q", "V", "V"]],
-        "seat": [["9", "4", "4"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T03:55:00" },
-                "arrival": { "iataCode": "DOH", "at": "2022-11-22T06:55:00" },
-                "marketingCarrier": "QR",
-                "carrierCode": "QR",
-                "flightNumber": "643",
-                "aircraft": "333"
-              },
-              {
-                "departure": { "iataCode": "DOH", "at": "2022-11-22T09:30:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-22T13:45:00" },
-                "marketingCarrier": "QR",
-                "carrierCode": "QR",
-                "flightNumber": "131",
-                "aircraft": "333"
-              }
-            ],
-            "duration": "14H 50M"
-          }
-        ],
-        "price": "1406.82",
-        "fareBasis": [["MJR4R1SO", "MJR4R1SO"]],
-        "class": [["M", "M"]],
-        "seat": [["9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T03:45:00" },
-                "arrival": { "iataCode": "DOH", "at": "2022-11-22T06:40:00" },
-                "marketingCarrier": "QR",
-                "carrierCode": "QR",
-                "flightNumber": "639",
-                "aircraft": "333"
-              },
-              {
-                "departure": { "iataCode": "DOH", "at": "2022-11-22T09:30:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-22T13:45:00" },
-                "marketingCarrier": "QR",
-                "carrierCode": "QR",
-                "flightNumber": "131",
-                "aircraft": "333"
-              }
-            ],
-            "duration": "15H 00M"
-          }
-        ],
-        "price": "1406.82",
-        "fareBasis": [["MJR4R1SO", "MJR4R1SO"]],
-        "class": [["M", "M"]],
-        "seat": [["9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T10:45:00" },
-                "arrival": { "iataCode": "DOH", "at": "2022-11-22T13:45:00" },
-                "marketingCarrier": "QR",
-                "carrierCode": "QR",
-                "flightNumber": "641",
-                "aircraft": "332"
-              },
-              {
-                "departure": { "iataCode": "DOH", "at": "2022-11-23T09:30:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-23T13:45:00" },
-                "marketingCarrier": "QR",
-                "carrierCode": "QR",
-                "flightNumber": "131",
-                "aircraft": "333"
-              }
-            ],
-            "duration": "32H 00M"
-          }
-        ],
-        "price": "1410.42",
-        "fareBasis": [["MJR4R1SO", "MJR4R1SO"]],
-        "class": [["M", "M"]],
-        "seat": [["9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T03:55:00" },
-                "arrival": { "iataCode": "DOH", "at": "2022-11-22T06:55:00" },
-                "marketingCarrier": "QR",
-                "carrierCode": "QR",
-                "flightNumber": "643",
-                "aircraft": "333"
-              },
-              {
-                "departure": { "iataCode": "DOH", "at": "2022-11-22T07:45:00" },
-                "arrival": { "iataCode": "BCN", "at": "2022-11-22T12:50:00" },
-                "marketingCarrier": "QR",
-                "carrierCode": "QR",
-                "flightNumber": "145",
-                "aircraft": "789"
-              },
-              {
-                "departure": { "iataCode": "BCN", "at": "2022-11-22T16:10:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-22T18:00:00" },
-                "marketingCarrier": "QR",
-                "carrierCode": "VY",
-                "flightNumber": "3692",
-                "aircraft": "320"
-              }
-            ],
-            "duration": "19H 05M"
-          }
-        ],
-        "price": "1564.80",
-        "fareBasis": [["MJR4R1SO", "MJR4R1SO", "MJR4R1SO"]],
-        "class": [["M", "M", "M"]],
-        "seat": [["9", "9", "4"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T03:45:00" },
-                "arrival": { "iataCode": "DOH", "at": "2022-11-22T06:40:00" },
-                "marketingCarrier": "QR",
-                "carrierCode": "QR",
-                "flightNumber": "639",
-                "aircraft": "333"
-              },
-              {
-                "departure": { "iataCode": "DOH", "at": "2022-11-22T07:45:00" },
-                "arrival": { "iataCode": "BCN", "at": "2022-11-22T12:50:00" },
-                "marketingCarrier": "QR",
-                "carrierCode": "QR",
-                "flightNumber": "145",
-                "aircraft": "789"
-              },
-              {
-                "departure": { "iataCode": "BCN", "at": "2022-11-22T16:10:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-22T18:00:00" },
-                "marketingCarrier": "QR",
-                "carrierCode": "VY",
-                "flightNumber": "3692",
-                "aircraft": "320"
-              }
-            ],
-            "duration": "19H 15M"
-          }
-        ],
-        "price": "1564.80",
-        "fareBasis": [["MJR4R1SO", "MJR4R1SO", "MJR4R1SO"]],
-        "class": [["M", "M", "M"]],
-        "seat": [["9", "9", "4"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T05:00:00" },
-                "arrival": { "iataCode": "AUH", "at": "2022-11-22T08:00:00" },
-                "marketingCarrier": "EY",
-                "carrierCode": "EY",
-                "flightNumber": "235",
-                "aircraft": "789"
-              },
-              {
-                "departure": { "iataCode": "AUH", "at": "2022-11-22T09:25:00" },
-                "arrival": { "iataCode": "ATH", "at": "2022-11-22T12:55:00" },
-                "marketingCarrier": "EY",
-                "carrierCode": "EY",
-                "flightNumber": "91",
-                "aircraft": "32A"
-              },
-              {
-                "departure": { "iataCode": "ATH", "at": "2022-11-22T19:30:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-22T20:40:00" },
-                "marketingCarrier": "EY",
-                "carrierCode": "AZ",
-                "flightNumber": "3000",
-                "aircraft": "320"
-              }
-            ],
-            "duration": "20H 40M"
-          }
-        ],
-        "price": "3817.26",
-        "fareBasis": [["YF1OW", "YF1OW", "YF1OW"]],
-        "class": [["Y", "Y", "Y"]],
-        "seat": [["9", "9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T18:40:00" },
-                "arrival": { "iataCode": "DXB", "at": "2022-11-22T22:10:00" },
-                "marketingCarrier": "EK",
-                "carrierCode": "EK",
-                "flightNumber": "587",
-                "aircraft": "77W"
-              },
-              {
-                "departure": { "iataCode": "DXB", "at": "2022-11-22T23:35:00" },
-                "arrival": { "iataCode": "BAH", "at": "2022-11-22T23:59:00" },
-                "marketingCarrier": "GF",
-                "carrierCode": "GF",
-                "flightNumber": "513",
-                "aircraft": "789"
-              },
-              {
-                "departure": { "iataCode": "BAH", "at": "2022-11-23T01:40:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-23T05:50:00" },
-                "marketingCarrier": "GF",
-                "carrierCode": "GF",
-                "flightNumber": "27",
-                "aircraft": "31N"
-              }
-            ],
-            "duration": "16H 10M"
-          }
-        ],
-        "price": "4246.56",
-        "fareBasis": [["YOWBD7", "YOWBD7", "YOWBD7"]],
-        "class": [["Y", "W", "W"]],
-        "seat": [["9", "7", "7"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T09:55:00" },
-                "arrival": { "iataCode": "DXB", "at": "2022-11-22T13:20:00" },
-                "marketingCarrier": "EK",
-                "carrierCode": "EK",
-                "flightNumber": "583",
-                "aircraft": "77W"
-              },
-              {
-                "departure": { "iataCode": "DXB", "at": "2022-11-22T15:25:00" },
-                "arrival": { "iataCode": "FRA", "at": "2022-11-22T19:30:00" },
-                "marketingCarrier": "EK",
-                "carrierCode": "EK",
-                "flightNumber": "47",
-                "aircraft": "388"
-              },
-              {
-                "departure": { "iataCode": "FRA", "at": "2022-11-22T20:50:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-22T22:35:00" },
-                "marketingCarrier": "LH",
-                "carrierCode": "LH",
-                "flightNumber": "242",
-                "aircraft": "32N"
-              }
-            ],
-            "duration": "17H 40M"
-          }
-        ],
-        "price": "6046.89",
-        "fareBasis": [["YOWBD7", "YOWBD7", "JFF77WW"]],
-        "class": [["Y", "Y", "J"]],
-        "seat": [["9", "9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T09:55:00" },
-                "arrival": { "iataCode": "DXB", "at": "2022-11-22T13:20:00" },
-                "marketingCarrier": "EK",
-                "carrierCode": "EK",
-                "flightNumber": "583",
-                "aircraft": "77W"
-              },
-              {
-                "departure": { "iataCode": "DXB", "at": "2022-11-22T15:25:00" },
-                "arrival": { "iataCode": "FRA", "at": "2022-11-22T19:30:00" },
-                "marketingCarrier": "EK",
-                "carrierCode": "EK",
-                "flightNumber": "47",
-                "aircraft": "388"
-              },
-              {
-                "departure": { "iataCode": "FRA", "at": "2022-11-22T22:00:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-22T23:00:00" },
-                "marketingCarrier": "LH",
-                "carrierCode": "CL",
-                "flightNumber": "4373",
-                "aircraft": "CR9"
-              }
-            ],
-            "duration": "18H 05M"
-          }
-        ],
-        "price": "6046.89",
-        "fareBasis": [["YOWBD7", "YOWBD7", "JFF77WW"]],
-        "class": [["Y", "Y", "J"]],
-        "seat": [["9", "9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T09:55:00" },
-                "arrival": { "iataCode": "DXB", "at": "2022-11-22T13:20:00" },
-                "marketingCarrier": "EK",
-                "carrierCode": "EK",
-                "flightNumber": "583",
-                "aircraft": "77W"
-              },
-              {
-                "departure": { "iataCode": "DXB", "at": "2022-11-22T15:25:00" },
-                "arrival": { "iataCode": "FRA", "at": "2022-11-22T19:30:00" },
-                "marketingCarrier": "QF",
-                "carrierCode": "EK",
-                "flightNumber": "8047",
-                "aircraft": "388"
-              },
-              {
-                "departure": { "iataCode": "FRA", "at": "2022-11-22T20:50:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-22T22:35:00" },
-                "marketingCarrier": "LH",
-                "carrierCode": "LH",
-                "flightNumber": "242",
-                "aircraft": "32N"
-              }
-            ],
-            "duration": "17H 40M"
-          }
-        ],
-        "price": "6232.50",
-        "fareBasis": [["YOWBD7", "YOWBD7", "JFF77WW"]],
-        "class": [["Y", "Y", "J"]],
-        "seat": [["9", "9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T09:55:00" },
-                "arrival": { "iataCode": "DXB", "at": "2022-11-22T13:20:00" },
-                "marketingCarrier": "EK",
-                "carrierCode": "EK",
-                "flightNumber": "583",
-                "aircraft": "77W"
-              },
-              {
-                "departure": { "iataCode": "DXB", "at": "2022-11-22T15:25:00" },
-                "arrival": { "iataCode": "FRA", "at": "2022-11-22T19:30:00" },
-                "marketingCarrier": "QF",
-                "carrierCode": "EK",
-                "flightNumber": "8047",
-                "aircraft": "388"
-              },
-              {
-                "departure": { "iataCode": "FRA", "at": "2022-11-22T22:00:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-22T23:00:00" },
-                "marketingCarrier": "LH",
-                "carrierCode": "CL",
-                "flightNumber": "4373",
-                "aircraft": "CR9"
-              }
-            ],
-            "duration": "18H 05M"
-          }
-        ],
-        "price": "6232.50",
-        "fareBasis": [["YOWBD7", "YOWBD7", "JFF77WW"]],
-        "class": [["Y", "Y", "J"]],
-        "seat": [["9", "9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T01:00:00" },
-                "arrival": { "iataCode": "DXB", "at": "2022-11-22T04:25:00" },
-                "marketingCarrier": "EK",
-                "carrierCode": "EK",
-                "flightNumber": "585",
-                "aircraft": "77W"
-              },
-              {
-                "departure": { "iataCode": "DXB", "at": "2022-11-22T08:40:00" },
-                "arrival": { "iataCode": "FRA", "at": "2022-11-22T12:45:00" },
-                "marketingCarrier": "QF",
-                "carrierCode": "EK",
-                "flightNumber": "8045",
-                "aircraft": "77W"
-              },
-              {
-                "departure": { "iataCode": "FRA", "at": "2022-11-22T16:00:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-22T17:40:00" },
-                "marketingCarrier": "LH",
-                "carrierCode": "LH",
-                "flightNumber": "4280",
-                "aircraft": "319"
-              }
-            ],
-            "duration": "21H 40M"
-          }
-        ],
-        "price": "6232.50",
-        "fareBasis": [["YOWBD7", "YOWBD7", "JFF77WW"]],
-        "class": [["Y", "Y", "J"]],
-        "seat": [["9", "9", "9"]]
-      },
-      {
-        "itineraries": [
-          {
-            "segments": [
-              {
-                "departure": { "iataCode": "DAC", "at": "2022-11-22T01:00:00" },
-                "arrival": { "iataCode": "DXB", "at": "2022-11-22T04:25:00" },
-                "marketingCarrier": "EK",
-                "carrierCode": "EK",
-                "flightNumber": "585",
-                "aircraft": "77W"
-              },
-              {
-                "departure": { "iataCode": "DXB", "at": "2022-11-22T09:35:00" },
-                "arrival": { "iataCode": "VCE", "at": "2022-11-22T13:15:00" },
-                "marketingCarrier": "EK",
-                "carrierCode": "EK",
-                "flightNumber": "135",
-                "aircraft": "77W"
-              },
-              {
-                "departure": { "iataCode": "VCE", "at": "2022-11-22T15:15:00" },
-                "arrival": { "iataCode": "FCO", "at": "2022-11-22T16:25:00" },
-                "marketingCarrier": "AZ",
-                "carrierCode": "AZ",
-                "flightNumber": "1462",
-                "aircraft": "32S"
-              }
-            ],
-            "duration": "20H 25M"
-          }
-        ],
-        "price": "9198.86",
-        "fareBasis": [["JOWBD7", "JOWBD7", "JOWBD7"]],
-        "class": [["J", "J", "E"]],
-        "seat": [["7", "7", "5"]]
-      }
-    ],
-    "message": "Data parsed successfully",
-    "code": "200"
-  }
-  
+  "status": true,
+  "data": [
+    {
+      "_id": "66e12b99bc38179169bf5a5f",
+      "providerName": "Health First Medical Clinic",
+      "providerImage": "https://images.pexels.com/photos/4475780/pexels-photo-4475780.jpeg?auto=compress&cs=tinysrgb&w=200",
+      "description": "A trusted health provider specializing in family medicine and pediatric care.",
+      "emailAddress": "contact@healthfirst.com",
+      "phoneNumber": "+1-555-1234",
+      "city": "Los Angeles",
+      "country": "USA",
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "staff": [
+        {
+          "imgUrl": "https://images.pexels.com/photos/27831288/pexels-photo-27831288/free-photo-of-a-man-with-a-beard-and-hat-looking-at-the-camera.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. Emily Johnson",
+          "degination": "Pediatrician"
+        },
+        {
+          "imgUrl": "https://images.pexels.com/photos/20094341/pexels-photo-20094341/free-photo-of-portrait-of-man-wearing-brown-cap.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. James Wilson",
+          "degination": "General Practitioner"
+        },
+        {
+          "imgUrl": "https://images.pexels.com/photos/27603433/pexels-photo-27603433/free-photo-of-blonde-beauty-s-eye-catching-glasses.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. Mark Robinson",
+          "degination": "Dentist"
+        }
+      ],
+      "awards": [
+        {
+          "awardImg": "https://images.pexels.com/photos/1710053/pexels-photo-1710053.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "awardName": "Best Family Care Clinic 2023",
+          "awardDetails": "Awarded for excellence in family healthcare services",
+          "year": "2023"
+        },
+        {
+          "awardImg": "https://images.pexels.com/photos/7468243/pexels-photo-7468243.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "awardName": "Innovative Health Provider 2023",
+          "awardDetails": "Recognized for innovative health programs",
+          "year": "2023"
+        },
+        {
+          "awardImg": "https://images.pexels.com/photos/6532370/pexels-photo-6532370.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "awardName": "Excellence in Patient Care 2021",
+          "awardDetails": "Award for outstanding patient care",
+          "year": "2021"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": "4.8",
+          "reviewDetails": "Amazing staff and great care!",
+          "reviewerName": "John Doe",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/27972371/pexels-photo-27972371/free-photo-of-a-man-in-a-suit-drinking-from-a-glass.jpeg?auto=compress&cs=tinysrgb&w=200"
+        },
+        {
+          "rating": "4.6",
+          "reviewDetails": "Great service and professional staff.",
+          "reviewerName": "Lucas Rivera",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/7860674/pexels-photo-7860674.jpeg?auto=compress&cs=tinysrgb&w=200"
+        },
+        {
+          "rating": "4.9",
+          "reviewDetails": "The best pediatrician I've ever visited!",
+          "reviewerName": "Emily Garcia",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/18648716/pexels-photo-18648716/free-photo-of-catrina-blanca.jpeg?auto=compress&cs=tinysrgb&w=200"
+        }
+      ],
+      "Documents": [
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/KZH106-0029349/asbestos_report/KZH106-0029349.pdf",
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/AHR20-0003179/asbestos_report/AHR20-0003179.pdf"
+      ]
+    },
+    {
+      "_id": "66e12b99bc38179169bf5a60",
+      "providerName": "Metro Dental Care",
+      "providerImage": "https://images.pexels.com/photos/11573545/pexels-photo-11573545.jpeg?auto=compress&cs=tinysrgb&h=226.525&fit=crop&w=253.17499999999998&dpr=1",
+      "description": "Leading dental care provider offering comprehensive dental services.",
+      "emailAddress": "info@metrodental.com",
+      "phoneNumber": "+1-555-5678",
+      "city": "Chicago",
+      "country": "USA",
+      "languages": [
+        "English",
+        "Polish"
+      ],
+      "staff": [
+        {
+          "imgUrl": "https://images.pexels.com/photos/27603433/pexels-photo-27603433/free-photo-of-blonde-beauty-s-eye-catching-glasses.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. Mark Robinson",
+          "degination": "Dentist"
+        },
+        {
+          "imgUrl": "https://images.pexels.com/photos/20094341/pexels-photo-20094341/free-photo-of-portrait-of-man-wearing-brown-cap.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. James Wilson",
+          "degination": "General Practitioner"
+        },
+        {
+          "imgUrl": "https://images.pexels.com/photos/27603433/pexels-photo-27603433/free-photo-of-blonde-beauty-s-eye-catching-glasses.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. Mark Robinson",
+          "degination": "Dentist"
+        }
+      ],
+      "awards": [
+        {
+          "awardImg": "https://images.pexels.com/photos/6120394/pexels-photo-6120394.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "awardName": "Top Dental Practice 2022",
+          "awardDetails": "Recognized for outstanding dental services",
+          "year": "2022"
+        },
+        {
+          "awardImg": "https://images.pexels.com/photos/7468243/pexels-photo-7468243.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "awardName": "Innovative Health Provider 2023",
+          "awardDetails": "Recognized for innovative health programs",
+          "year": "2023"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": "4.9",
+          "reviewDetails": "Exceptional care and clean facility.",
+          "reviewerName": "Jane Smith",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/20954282/pexels-photo-20954282/free-photo-of-woman-wearing-a-denim-jacket.jpeg?auto=compress&cs=tinysrgb&w=200"
+        },
+        {
+          "rating": "4.8",
+          "reviewDetails": "Amazing staff and great care!",
+          "reviewerName": "John Doe",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/27972371/pexels-photo-27972371/free-photo-of-a-man-in-a-suit-drinking-from-a-glass.jpeg?auto=compress&cs=tinysrgb&w=200"
+        },
+        {
+          "rating": "4.6",
+          "reviewDetails": "Great service and professional staff.",
+          "reviewerName": "Lucas Rivera",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/7860674/pexels-photo-7860674.jpeg?auto=compress&cs=tinysrgb&w=200"
+        }
+      ],
+      "Documents": [
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/ZYX10-2158632/origin_report/ZYX10-2158632.pdf",
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/AHR20-0003179/asbestos_report/AHR20-0003179.pdf"
+      ]
+    },
+    {
+      "_id": "66e12b99bc38179169bf5a61",
+      "providerName": "PrimeCare Hospitals",
+      "providerImage": "https://images.pexels.com/photos/13008298/pexels-photo-13008298.jpeg?auto=compress&cs=tinysrgb&h=226.525&fit=crop&w=253.17499999999998&dpr=1",
+      "description": "A chain of hospitals providing multi-specialty healthcare services across Europe.",
+      "emailAddress": "info@primecarehospitals.eu",
+      "phoneNumber": "+44-208-123456",
+      "city": "London",
+      "country": "UK",
+      "languages": [
+        "English",
+        "French"
+      ],
+      "staff": [
+        {
+          "imgUrl": "https://images.pexels.com/photos/1520760/pexels-photo-1520760.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. Sarah Brown",
+          "degination": "Surgeon"
+        }
+      ],
+      "awards": [
+        {
+          "awardImg": "https://images.pexels.com/photos/6532370/pexels-photo-6532370.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "awardName": "Excellence in Patient Care 2021",
+          "awardDetails": "Award for outstanding patient care",
+          "year": "2021"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": "4.7",
+          "reviewDetails": "Highly skilled doctors and modern facilities.",
+          "reviewerName": "Mohamed Khan",
+          "reviewerCountry": "UK",
+          "reviewerImgUrl": "https://images.pexels.com/photos/7860674/pexels-photo-7860674.jpeg?auto=compress&cs=tinysrgb&w=200"
+        },
+        {
+          "rating": "4.9",
+          "reviewDetails": "Exceptional care and clean facility.",
+          "reviewerName": "Jane Smith",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/20954282/pexels-photo-20954282/free-photo-of-woman-wearing-a-denim-jacket.jpeg?auto=compress&cs=tinysrgb&w=200"
+        },
+        {
+          "rating": "4.8",
+          "reviewDetails": "Amazing staff and great care!",
+          "reviewerName": "John Doe",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/27972371/pexels-photo-27972371/free-photo-of-a-man-in-a-suit-drinking-from-a-glass.jpeg?auto=compress&cs=tinysrgb&w=200"
+        }
+      ],
+      "Documents": [
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/ZYX10-2158632/asbestos_report/ZYX10-2158632.pdf"
+      ]
+    },
+    {
+      "_id": "66e12b99bc38179169bf5a62",
+      "providerName": "Sunshine Pediatrics",
+      "providerImage": "https://images.pexels.com/photos/11284324/pexels-photo-11284324.jpeg?auto=compress&cs=tinysrgb&w=200",
+      "description": "Providing specialized pediatric care to newborns and children.",
+      "emailAddress": "pediatrics@sunshineclinic.com",
+      "phoneNumber": "+1-555-2468",
+      "city": "New York",
+      "country": "USA",
+      "languages": [
+        "English",
+        "Mandarin"
+      ],
+      "staff": [
+        {
+          "imgUrl": "https://images.pexels.com/photos/28005540/pexels-photo-28005540/free-photo-of-a-woman-in-a-red-and-white-polka-dot-dress-looking-out-a-window.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. Olivia Turner",
+          "degination": "Pediatrician"
+        }
+      ],
+      "awards": [
+        {
+          "awardImg": "https://images.pexels.com/photos/6532374/pexels-photo-6532374.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "awardName": "Best Pediatric Care Provider 2022",
+          "awardDetails": "Honored for excellence in pediatric services",
+          "year": "2022"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": "4.9",
+          "reviewDetails": "The best pediatrician I've ever visited!",
+          "reviewerName": "Emily Garcia",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/18648716/pexels-photo-18648716/free-photo-of-catrina-blanca.jpeg?auto=compress&cs=tinysrgb&w=200"
+        },
+        {
+          "rating": "4.7",
+          "reviewDetails": "Highly skilled doctors and modern facilities.",
+          "reviewerName": "Mohamed Khan",
+          "reviewerCountry": "UK",
+          "reviewerImgUrl": "https://images.pexels.com/photos/7860674/pexels-photo-7860674.jpeg?auto=compress&cs=tinysrgb&w=200"
+        },
+        {
+          "rating": "4.9",
+          "reviewDetails": "Exceptional care and clean facility.",
+          "reviewerName": "Jane Smith",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/20954282/pexels-photo-20954282/free-photo-of-woman-wearing-a-denim-jacket.jpeg?auto=compress&cs=tinysrgb&w=200"
+        }
+      ],
+      "Documents": [
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/AHR20-0003179/origin_report/AHR20-0003179.pdf"
+      ]
+    },
+    {
+      "_id": "66e12b99bc38179169bf5a63",
+      "providerName": "Elite Health Solutions",
+      "providerImage": "https://images.pexels.com/photos/8442293/pexels-photo-8442293.jpeg?auto=compress&cs=tinysrgb&w=200",
+      "description": "Providing holistic health solutions focusing on wellness and prevention.",
+      "emailAddress": "contact@elitehealth.com",
+      "phoneNumber": "+1-555-3345",
+      "city": "Miami",
+      "country": "USA",
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "staff": [
+        {
+          "imgUrl": "https://images.pexels.com/photos/20094341/pexels-photo-20094341/free-photo-of-portrait-of-man-wearing-brown-cap.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. James Wilson",
+          "degination": "General Practitioner"
+        }
+      ],
+      "awards": [
+        {
+          "awardImg": "https://images.pexels.com/photos/7468243/pexels-photo-7468243.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "awardName": "Innovative Health Provider 2023",
+          "awardDetails": "Recognized for innovative health programs",
+          "year": "2023"
+        },
+        {
+          "awardImg": "https://images.pexels.com/photos/1710053/pexels-photo-1710053.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "awardName": "Best Family Care Clinic 2023",
+          "awardDetails": "Awarded for excellence in family healthcare services",
+          "year": "2023"
+        },
+        {
+          "awardImg": "https://images.pexels.com/photos/6532370/pexels-photo-6532370.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "awardName": "Excellence in Patient Care 2021",
+          "awardDetails": "Award for outstanding patient care",
+          "year": "2021"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": "4.6",
+          "reviewDetails": "Great service and professional staff.",
+          "reviewerName": "Lucas Rivera",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/7860674/pexels-photo-7860674.jpeg?auto=compress&cs=tinysrgb&w=200"
+        },
+        {
+          "rating": "4.7",
+          "reviewDetails": "Highly skilled doctors and modern facilities.",
+          "reviewerName": "Mohamed Khan",
+          "reviewerCountry": "UK",
+          "reviewerImgUrl": "https://images.pexels.com/photos/7860674/pexels-photo-7860674.jpeg?auto=compress&cs=tinysrgb&w=200"
+        },
+        {
+          "rating": "4.9",
+          "reviewDetails": "Exceptional care and clean facility.",
+          "reviewerName": "Jane Smith",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/20954282/pexels-photo-20954282/free-photo-of-woman-wearing-a-denim-jacket.jpeg?auto=compress&cs=tinysrgb&w=200"
+        }
+      ],
+      "Documents": [
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/AHR20-0003179/asbestos_report/AHR20-0003179.pdf",
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/AHR20-0003179/origin_report/AHR20-0003179.pdf"
+      ]
+    },
+    {
+      "_id": "66e12b99bc38179169bf5a64",
+      "providerName": "Bright Dental Clinic",
+      "providerImage": "https://images.pexels.com/photos/4475780/pexels-photo-4475780.jpeg?auto=compress&cs=tinysrgb&w=200",
+      "description": "Providing premium dental care services with state-of-the-art technology.",
+      "emailAddress": "info@brightdental.com",
+      "phoneNumber": "+1-555-9987",
+      "city": "San Francisco",
+      "country": "USA",
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "staff": [
+        {
+          "imgUrl": "https://images.pexels.com/photos/27831288/pexels-photo-27831288/free-photo-of-a-man-with-a-beard-and-hat-looking-at-the-camera.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. Clara Lewis",
+          "degination": "Orthodontist"
+        },
+        {
+          "imgUrl": "https://images.pexels.com/photos/20094341/pexels-photo-20094341/free-photo-of-portrait-of-man-wearing-brown-cap.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. Edward Brown",
+          "degination": "Dentist"
+        }
+      ],
+      "awards": [
+        {
+          "awardImg": "https://images.pexels.com/photos/1710053/pexels-photo-1710053.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "awardName": "Best Dental Clinic 2022",
+          "awardDetails": "Awarded for best patient care in dental services",
+          "year": "2022"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": "4.7",
+          "reviewDetails": "Amazing experience, professional staff!",
+          "reviewerName": "Emma Roberts",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/18648716/pexels-photo-18648716/free-photo-of-catrina-blanca.jpeg?auto=compress&cs=tinysrgb&w=200"
+        }
+      ],
+      "Documents": [
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/KZH106-0029349/asbestos_report/KZH106-0029349.pdf",
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/AHR20-0003179/asbestos_report/AHR20-0003179.pdf"
+      ]
+    },
+    {
+      "_id": "66e12b99bc38179169bf5a65",
+      "providerName": "Global Health Clinics",
+      "providerImage": "https://images.pexels.com/photos/11573545/pexels-photo-11573545.jpeg?auto=compress&cs=tinysrgb&h=226.525&fit=crop&w=253.17499999999998&dpr=1",
+      "description": "Global Health Clinics offers international healthcare services for all ages.",
+      "emailAddress": "contact@globalhealth.com",
+      "phoneNumber": "+44-789-456123",
+      "city": "London",
+      "country": "UK",
+      "languages": [
+        "English",
+        "French",
+        "German"
+      ],
+      "staff": [
+        {
+          "imgUrl": "https://images.pexels.com/photos/27603433/pexels-photo-27603433/free-photo-of-blonde-beauty-s-eye-catching-glasses.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. Anna Wilson",
+          "degination": "Cardiologist"
+        }
+      ],
+      "awards": [
+        {
+          "awardImg": "https://images.pexels.com/photos/6532370/pexels-photo-6532370.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "awardName": "Excellence in Healthcare 2023",
+          "awardDetails": "Recognized for exceptional healthcare services",
+          "year": "2023"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": "4.8",
+          "reviewDetails": "Excellent healthcare and supportive staff.",
+          "reviewerName": "Sophia Martinez",
+          "reviewerCountry": "UK",
+          "reviewerImgUrl": "https://images.pexels.com/photos/20954282/pexels-photo-20954282/free-photo-of-woman-wearing-a-denim-jacket.jpeg?auto=compress&cs=tinysrgb&w=200"
+        }
+      ],
+      "Documents": [
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/ZYX10-2158632/origin_report/ZYX10-2158632.pdf",
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/AHR20-0003179/asbestos_report/AHR20-0003179.pdf"
+      ]
+    },
+    {
+      "_id": "66e12b99bc38179169bf5a66",
+      "providerName": "Vision Care Hospital",
+      "providerImage": "https://images.pexels.com/photos/13008298/pexels-photo-13008298.jpeg?auto=compress&cs=tinysrgb&h=226.525&fit=crop&w=253.17499999999998&dpr=1",
+      "description": "Leading hospital in eye care services with top ophthalmologists.",
+      "emailAddress": "visioncare@hospital.com",
+      "phoneNumber": "+1-555-2345",
+      "city": "New York",
+      "country": "USA",
+      "languages": [
+        "English",
+        "Mandarin"
+      ],
+      "staff": [
+        {
+          "imgUrl": "https://images.pexels.com/photos/1520760/pexels-photo-1520760.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. Kate Johnson",
+          "degination": "Ophthalmologist"
+        }
+      ],
+      "awards": [
+        {
+          "awardImg": "https://images.pexels.com/photos/6532374/pexels-photo-6532374.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "awardName": "Best Eye Care 2022",
+          "awardDetails": "Awarded for top eye care services",
+          "year": "2022"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": "4.9",
+          "reviewDetails": "The best eye hospital in the city!",
+          "reviewerName": "Michael Scott",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/20954282/pexels-photo-20954282/free-photo-of-woman-wearing-a-denim-jacket.jpeg?auto=compress&cs=tinysrgb&w=200"
+        }
+      ],
+      "Documents": [
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/ZYX10-2158632/asbestos_report/ZYX10-2158632.pdf"
+      ]
+    },
+    {
+      "_id": "66e12b99bc38179169bf5a67",
+      "providerName": "CarePoint Pediatrics",
+      "providerImage": "https://images.pexels.com/photos/11284324/pexels-photo-11284324.jpeg?auto=compress&cs=tinysrgb&w=200",
+      "description": "Comprehensive pediatric care for infants, toddlers, and children.",
+      "emailAddress": "info@carepointpediatrics.com",
+      "phoneNumber": "+1-555-6789",
+      "city": "Miami",
+      "country": "USA",
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "staff": [
+        {
+          "imgUrl": "https://images.pexels.com/photos/28005540/pexels-photo-28005540/free-photo-of-a-woman-in-a-red-and-white-polka-dot-dress-looking-out-a-window.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. John Smith",
+          "degination": "Pediatrician"
+        }
+      ],
+      "awards": [
+        {
+          "awardImg": "https://images.pexels.com/photos/6532374/pexels-photo-6532374.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "awardName": "Top Pediatric Care 2023",
+          "awardDetails": "Awarded for excellence in pediatric services",
+          "year": "2023"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": "4.7",
+          "reviewDetails": "Fantastic pediatric care and friendly staff.",
+          "reviewerName": "Emily Johnson",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/18648716/pexels-photo-18648716/free-photo-of-catrina-blanca.jpeg?auto=compress&cs=tinysrgb&w=200"
+        }
+      ],
+      "Documents": [
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/AHR20-0003179/origin_report/AHR20-0003179.pdf"
+      ]
+    },
+    {
+      "_id": "66e12b99bc38179169bf5a68",
+      "providerName": "Elite Wellness Clinic",
+      "providerImage": "https://images.pexels.com/photos/8442293/pexels-photo-8442293.jpeg?auto=compress&cs=tinysrgb&w=200",
+      "description": "Providing wellness solutions for holistic health and mental well-being.",
+      "emailAddress": "wellness@eliteclinic.com",
+      "phoneNumber": "+1-555-7890",
+      "city": "Houston",
+      "country": "USA",
+      "languages": [
+        "English",
+        "French"
+      ],
+      "staff": [
+        {
+          "imgUrl": "https://images.pexels.com/photos/20094341/pexels-photo-20094341/free-photo-of-portrait-of-man-wearing-brown-cap.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. Sarah Lee",
+          "degination": "Wellness Specialist"
+        }
+      ],
+      "awards": [
+        {
+          "awardImg": "https://images.pexels.com/photos/7468243/pexels-photo-7468243.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "awardName": "Best Wellness Clinic 2023",
+          "awardDetails": "Recognized for comprehensive wellness services",
+          "year": "2023"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": "4.8",
+          "reviewDetails": "Excellent wellness programs and supportive staff.",
+          "reviewerName": "Lucas Martinez",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/7860674/pexels-photo-7860674.jpeg?auto=compress&cs=tinysrgb&w=200"
+        }
+      ],
+      "Documents": [
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/AHR20-0003179/asbestos_report/AHR20-0003179.pdf",
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/AHR20-0003179/origin_report/AHR20-0003179.pdf"
+      ]
+    },
+    {
+      "_id": "66e12b99bc38179169bf5a69",
+      "providerName": "Harmony Family Clinic",
+      "providerImage": "https://images.pexels.com/photos/4475780/pexels-photo-4475780.jpeg?auto=compress&cs=tinysrgb&w=200",
+      "description": "Comprehensive healthcare services for the entire family, focusing on preventive care and wellness.",
+      "emailAddress": "contact@harmonyfamily.com",
+      "phoneNumber": "+1-555-6789",
+      "city": "Phoenix",
+      "country": "USA",
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "staff": [
+        {
+          "imgUrl": "https://images.pexels.com/photos/27831288/pexels-photo-27831288/free-photo-of-a-man-with-a-beard-and-hat-looking-at-the-camera.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. David Clark",
+          "degination": "Family Physician"
+        },
+        {
+          "imgUrl": "https://images.pexels.com/photos/20094341/pexels-photo-20094341/free-photo-of-portrait-of-man-wearing-brown-cap.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. Lisa Thompson",
+          "degination": "General Practitioner"
+        }
+      ],
+      "awards": [
+        {
+          "awardImg": "https://images.pexels.com/photos/1710053/pexels-photo-1710053.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "awardName": "Best Family Health Provider 2022",
+          "awardDetails": "Awarded for outstanding family healthcare services",
+          "year": "2022"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": "4.8",
+          "reviewDetails": "Wonderful family clinic with caring doctors.",
+          "reviewerName": "Alex Rivera",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/27972371/pexels-photo-27972371/free-photo-of-a-man-in-a-suit-drinking-from-a-glass.jpeg?auto=compress&cs=tinysrgb&w=200"
+        }
+      ],
+      "Documents": [
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/KZH106-0029349/asbestos_report/KZH106-0029349.pdf",
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/AHR20-0003179/asbestos_report/AHR20-0003179.pdf"
+      ]
+    },
+    {
+      "_id": "66e12b99bc38179169bf5a6a",
+      "providerName": "City Med Urgent Care",
+      "providerImage": "https://images.pexels.com/photos/11573545/pexels-photo-11573545.jpeg?auto=compress&cs=tinysrgb&h=226.525&fit=crop&w=253.17499999999998&dpr=1",
+      "description": "Rapid, reliable, and affordable urgent care services for minor injuries and illnesses.",
+      "emailAddress": "info@citymedurgentcare.com",
+      "phoneNumber": "+1-555-1212",
+      "city": "Boston",
+      "country": "USA",
+      "languages": [
+        "English",
+        "Portuguese"
+      ],
+      "staff": [
+        {
+          "imgUrl": "https://images.pexels.com/photos/27603433/pexels-photo-27603433/free-photo-of-blonde-beauty-s-eye-catching-glasses.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. Amanda Lee",
+          "degination": "Emergency Physician"
+        }
+      ],
+      "awards": [
+        {
+          "awardImg": "https://images.pexels.com/photos/6532370/pexels-photo-6532370.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "awardName": "Top Urgent Care Facility 2021",
+          "awardDetails": "Recognized for providing rapid, high-quality urgent care services",
+          "year": "2021"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": "4.7",
+          "reviewDetails": "Quick, efficient care when I needed it the most.",
+          "reviewerName": "Ryan Thompson",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/20954282/pexels-photo-20954282/free-photo-of-woman-wearing-a-denim-jacket.jpeg?auto=compress&cs=tinysrgb&w=200"
+        }
+      ],
+      "Documents": [
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/ZYX10-2158632/origin_report/ZYX10-2158632.pdf",
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/AHR20-0003179/asbestos_report/AHR20-0003179.pdf"
+      ]
+    },
+    {
+      "_id": "66e12b99bc38179169bf5a6b",
+      "providerName": "Lakeside Mental Health Center",
+      "providerImage": "https://images.pexels.com/photos/13008298/pexels-photo-13008298.jpeg?auto=compress&cs=tinysrgb&h=226.525&fit=crop&w=253.17499999999998&dpr=1",
+      "description": "Providing expert mental health services and therapy in a peaceful environment.",
+      "emailAddress": "contact@lakesidementalhealth.com",
+      "phoneNumber": "+1-555-3334",
+      "city": "Seattle",
+      "country": "USA",
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "staff": [
+        {
+          "imgUrl": "https://images.pexels.com/photos/1520760/pexels-photo-1520760.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. Richard Moore",
+          "degination": "Psychiatrist"
+        }
+      ],
+      "awards": [
+        {
+          "awardImg": "https://images.pexels.com/photos/6532374/pexels-photo-6532374.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "awardName": "Excellence in Mental Health Services 2022",
+          "awardDetails": "Awarded for providing exceptional mental health care",
+          "year": "2022"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": "4.9",
+          "reviewDetails": "A peaceful place with great professionals.",
+          "reviewerName": "Daniel Scott",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/20954282/pexels-photo-20954282/free-photo-of-woman-wearing-a-denim-jacket.jpeg?auto=compress&cs=tinysrgb&w=200"
+        }
+      ],
+      "Documents": [
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/ZYX10-2158632/asbestos_report/ZYX10-2158632.pdf"
+      ]
+    },
+    {
+      "_id": "66e12b99bc38179169bf5a6c",
+      "providerName": "Mountainview Orthopedic Clinic",
+      "providerImage": "https://images.pexels.com/photos/11284324/pexels-photo-11284324.jpeg?auto=compress&cs=tinysrgb&w=200",
+      "description": "Specializing in orthopedic care and sports injuries with a focus on rehabilitation.",
+      "emailAddress": "orthopedics@mountainviewclinic.com",
+      "phoneNumber": "+1-555-7865",
+      "city": "Denver",
+      "country": "USA",
+      "languages": [
+        "English",
+        "German"
+      ],
+      "staff": [
+        {
+          "imgUrl": "https://images.pexels.com/photos/28005540/pexels-photo-28005540/free-photo-of-a-woman-in-a-red-and-white-polka-dot-dress-looking-out-a-window.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. Peter Novak",
+          "degination": "Orthopedic Surgeon"
+        }
+      ],
+      "awards": [
+        {
+          "awardImg": "https://images.pexels.com/photos/6532374/pexels-photo-6532374.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "awardName": "Top Orthopedic Clinic 2023",
+          "awardDetails": "Awarded for excellence in orthopedic care and rehabilitation",
+          "year": "2023"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": "4.8",
+          "reviewDetails": "I got excellent treatment for my knee injury.",
+          "reviewerName": "Amanda Lewis",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/18648716/pexels-photo-18648716/free-photo-of-catrina-blanca.jpeg?auto=compress&cs=tinysrgb&w=200"
+        }
+      ],
+      "Documents": [
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/AHR20-0003179/origin_report/AHR20-0003179.pdf"
+      ]
+    },
+    {
+      "_id": "66e12b99bc38179169bf5a6d",
+      "providerName": "Greenfield Dermatology Clinic",
+      "providerImage": "https://images.pexels.com/photos/8442293/pexels-photo-8442293.jpeg?auto=compress&cs=tinysrgb&w=200",
+      "description": "Expert skincare and dermatology treatments for all skin types.",
+      "emailAddress": "info@greenfielddermatology.com",
+      "phoneNumber": "+1-555-9284",
+      "city": "Austin",
+      "country": "USA",
+      "languages": [
+        "English",
+        "French"
+      ],
+      "staff": [
+        {
+          "imgUrl": "https://images.pexels.com/photos/20094341/pexels-photo-20094341/free-photo-of-portrait-of-man-wearing-brown-cap.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "name": "Dr. Linda Grey",
+          "degination": "Dermatologist"
+        }
+      ],
+      "awards": [
+        {
+          "awardImg": "https://images.pexels.com/photos/7468243/pexels-photo-7468243.jpeg?auto=compress&cs=tinysrgb&w=200",
+          "awardName": "Best Dermatology Clinic 2022",
+          "awardDetails": "Recognized for innovative skincare treatments",
+          "year": "2022"
+        }
+      ],
+      "reviews": [
+        {
+          "rating": "4.9",
+          "reviewDetails": "The best dermatology clinic for my skin needs.",
+          "reviewerName": "Megan Brown",
+          "reviewerCountry": "USA",
+          "reviewerImgUrl": "https://images.pexels.com/photos/20954282/pexels-photo-20954282/free-photo-of-woman-wearing-a-denim-jacket.jpeg?auto=compress&cs=tinysrgb&w=200"
+        }
+      ],
+      "Documents": [
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/AHR20-0003179/asbestos_report/AHR20-0003179.pdf",
+        "https://int-assets.s3.ap-southeast-2.amazonaws.com/document-uploaded/AHR20-0003179/origin_report/AHR20-0003179.pdf"
+      ]
+    }
+  ]
+}
