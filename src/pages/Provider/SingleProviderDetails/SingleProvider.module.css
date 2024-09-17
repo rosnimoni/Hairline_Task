@@ -1,0 +1,123 @@
+.container_blocks {
+    min-width: 550px;
+    max-width: 550px;
+    min-height: 300px;
+    margin-top: 10px;
+    border-radius: 12px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background-color: #fff;
+
+}
+
+.container_padd {
+    padding: 20px 10px 10px 20px;
+    ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.icon_color {
+    color: #323232;
+    cursor: pointer;
+    padding-left: 5px;
+}
+
+.headline {
+    font-family: Plus Jakarta Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50.4px;
+    text-align: left;
+
+}
+
+.headline_padd {
+    padding: 0px 20px 10px 20px;
+
+}
+
+.review {
+    padding: 0px 10px 10px 20px;
+}
+
+.paragraph {
+    padding: 0px 10px 10px 20px;
+    font-family: Plus Jakarta Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    color: #555555;
+
+
+}
+
+.bottomArea {
+    padding: 20px 10px 10px 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.flex_derection {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.image_center {
+    margin-top: 7px;
+    padding-right: 5px;
+}
+
+/*language Area Styling*/
+
+.layout_padd {
+    padding: 20px 10px 20px 20px;
+}
+
+.language_layout {
+    margin: 20px 5px 0px 0px;
+    min-width: 94px;
+    min-height: 31px;
+    padding: 6px 12px 5px 12px;
+    gap: 10px;
+    border: 1px solid #EEEEEE;
+    border-radius: 100px;
+    opacity: 0px;
+    background: #EEEEEE;
+
+   
+
+}
+.tag_lg_lan {
+    font-family: Plus Jakarta Sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20.16px;
+    text-align: left;
+    color: #000000;
+    text-align: center;
+  
+  }
+
+/*Staff Area Styling*/
+.Staff_layout {
+    max-width: 160px;
+    padding: 12px 0px 0px 0px;
+    margin: 10px 10px 0px 0px !important;
+    gap: 12px;
+    border-radius: 12px;
+    border: 1px solid #DDDDDD !important;
+    opacity: 0px !important;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.image_center_Staff {
+    width: 82px;
+    margin: 0 auto;
+}

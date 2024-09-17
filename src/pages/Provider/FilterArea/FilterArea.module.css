@@ -1,0 +1,19 @@
+.paragraph_p6{
+font-family: Plus Jakarta Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 21px;
+text-align:left;
+}
+
+.searchInput{
+    width: 215px;
+    height: 42px;
+    padding: 9px 121px 9px 15px;
+    gap: 0px;
+    border-radius: 10px 0px 0px 0px;
+    border: 1px 0px 0px 0px !important;
+    opacity: 0px!important;
+    color: #BBBBBB;
+    
+}
