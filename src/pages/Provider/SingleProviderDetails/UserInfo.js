@@ -1,6 +1,6 @@
 import React from 'react';
 import style from "./SingleProvider.module.css";
-import icon from './Images/icon.png';
+import icon from '../../../Assets/Images/icon.png';
 import { EditOutlined, DeleteOutlined, StarFilled, StarOutlined } from '@ant-design/icons';
 import { Link } from 'react-router-dom';
 import { Row, Col } from 'antd';

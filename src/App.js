@@ -11,6 +11,7 @@ import Financial from './pages/Financial.jsx';
 import Users from './pages/Users.jsx';
 import Quota from './pages/Quota.jsx';
 import SingleProviderDetails from './pages/Provider/SingleProviderDetails/SingleProvider.js';
+import AddNewProvider from './pages/Provider/AddNewProvider/AddNewProvider.js';
 
 
 const App = () => {
@@ -28,6 +29,7 @@ const App = () => {
           <Route path="/users" element={<Users />} />
           <Route path="/quota" element={<Quota />} />
           <Route path="/SingleProviderDetails" element={<SingleProviderDetails />} />
+          <Route path="/addnewprovider" element={<AddNewProvider />} />
         </Routes>
       </Sidebar>
     </BrowserRouter>

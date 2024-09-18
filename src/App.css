@@ -225,7 +225,7 @@ main {
 /* Navbar End */
 
 .main_content {
-  width: 1200px;
+  min-width: 1200px;
   margin: 0 auto;
 }
 
@@ -352,6 +352,15 @@ main {
   text-align: left;
   color: #000000;
 
+}
+
+.headline_h5{
+font-family: Plus Jakarta Sans;
+font-size: 20px;
+font-weight: 700;
+line-height: 25.2px;
+text-align: left;
+color: #000000;
 }
 
 /* Button design   */

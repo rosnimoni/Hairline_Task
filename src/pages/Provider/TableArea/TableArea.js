@@ -4,7 +4,7 @@ import myData from "./Data/Data.json";
 import { Table, Button, Row, Col } from "antd";
 import style from "./TableArea.module.css";
 import SingleProvider from '../SingleProviderDetails/SingleProvider.js';
-import profileImage from '../SingleProviderDetails/Images/profile_img.png';
+import profileImage from '../../../Assets/Images/profile_img.png';
 import { StarFilled, EyeOutlined, EditOutlined, DeleteFilled } from "@ant-design/icons";
 
 const TableData = () => {
