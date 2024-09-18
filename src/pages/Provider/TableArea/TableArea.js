@@ -1,11 +1,11 @@
 import React, { useEffect } from "react";
 import { Link } from 'react-router-dom';
 import myData from "./Data/Data.json";
-import { Table, Button,Row,Col } from "antd";
+import { Table, Button, Row, Col } from "antd";
 import style from "./TableArea.module.css";
 import SingleProvider from '../SingleProviderDetails/SingleProvider.js';
 import profileImage from '../SingleProviderDetails/Images/profile_img.png';
-import { StarFilled , EyeOutlined ,EditOutlined ,DeleteFilled} from "@ant-design/icons";
+import { StarFilled, EyeOutlined, EditOutlined, DeleteFilled } from "@ant-design/icons";
 
 const TableData = () => {
   const [tableData, setTableData] = React.useState([]);
@@ -24,8 +24,8 @@ const TableData = () => {
         const styles = {
           border: "1px solid rgba(0, 0, 0, 0.05)",
         };
-        
-          return(
+
+        return (
           <>
             <Row align="middle" gutter={24}>
               <Col xxl={8} lg={8} md={8} sm={16}>
@@ -55,7 +55,7 @@ const TableData = () => {
         const styles = {
           border: "1px solid rgba(0, 0, 0, 0.05)",
         };
-            return <div style={styles}>{record.emailAddress ? record.emailAddress : "-"}</div>;
+        return <div style={styles}>{record.emailAddress ? record.emailAddress : "-"}</div>;
 
       },
     },
@@ -65,8 +65,8 @@ const TableData = () => {
       render: (text, record) => {
         const styles = {
           border: "1px solid rgba(0, 0, 0, 0.05)",
-        };       
-          return <div style={styles}>{record.phoneNumber ? record.phoneNumber : ""}</div>;
+        };
+        return <div style={styles}>{record.phoneNumber ? record.phoneNumber : ""}</div>;
 
       },
     },
@@ -77,8 +77,8 @@ const TableData = () => {
         const styles = {
           border: "1px solid rgba(0, 0, 0, 0.05)",
         };
-     
-          return <div style={styles}>{record ? record.city : ""} , {record ? record.country : ""} </div>;
+
+        return <div style={styles}>{record ? record.city : ""} , {record ? record.country : ""} </div>;
 
       },
     },
@@ -90,9 +90,9 @@ const TableData = () => {
           border: "1px solid rgba(0, 0, 0, 0.05)",
           textAlign: "center"
         };
-        
-          return <div style={styles}>{record?.staff.length ? record?.staff.length : "-"}</div>;
-          
+
+        return <div style={styles}>{record?.staff.length ? record?.staff.length : "-"}</div>;
+
       },
     },
     {
@@ -102,10 +102,10 @@ const TableData = () => {
         const styles = {
           border: "1px solid rgba(0, 0, 0, 0.05)",
         };
-          return record.reviews.map((data, i) => {
-            return <div style={styles}> <StarFilled /> &nbsp; {data.rating ? data.rating : "-"}</div>;
-          });
-        
+        return record.reviews.map((data, i) => {
+          return <div style={styles}> <StarFilled /> &nbsp; {data.rating ? data.rating : "-"}</div>;
+        });
+
 
       },
     },
@@ -113,22 +113,23 @@ const TableData = () => {
       title: "ACTION",
       dataIndex: "price",
       render: (text, record) => {
+        console.log("data", record._id);
         const styles = {
           border: "1px solid rgba(0, 0, 0, 0.05)",
           textAlign: "center",
-          display:"flex",
-          flexDirection:"row",
-          justifyContent:"space-between"
+          display: "flex",
+          flexDirection: "row",
+          justifyContent: "space-between"
         };
         return (
           <div style={styles}>
-            <Link to="/SingleProviderDetails">
-              <li><EyeOutlined /></li>  
-          </Link>
-            
+
+            <Link to="/SingleProviderDetails" state={{ _id: record._id }}>
+              <li><EyeOutlined /></li>
+            </Link>
             <EditOutlined />
             <DeleteFilled />
-            
+
           </div >
         );
       },

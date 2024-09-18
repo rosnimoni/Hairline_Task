@@ -1,40 +1,8 @@
 import React from 'react';
 import style from "./SingleProvider.module.css";
 import { Col, Divider, Row } from 'antd';
-import Profile_img from './Images/profile_img.png';
 
-const Award = [
-    {
-        id: 1,
-        title: "Hairsite Golden Achievement Award",
-        text: "Description dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-        date: "Year - 2012"
-
-    },
-    {
-        id: 2,
-        title: "Hairsite Golden Achievement Award",
-        text: "Description dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-        date: "Year - 2012"
-
-    },
-    {
-        id: 3,
-        title: "Hairsite Golden Achievement Award",
-        text: "Description dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-        date: "Year - 2012"
-
-    },
-    {
-        id: 4,
-        title: "Hairsite Golden Achievement Award",
-        text: "Description dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-        date: "Year - 2012"
-
-    }
-]
-
-const AwardAndRecog = () => {
+const AwardAndRecog = ({ data }) => {
     return (
         <div className={style.container_blocks}>
             <div className={style.layout_padd}>
@@ -42,21 +10,21 @@ const AwardAndRecog = () => {
                     Awards and recognition
                 </div>
                 <Divider />
-                {Award.map((data, i) => {
+                {data.awards.map((data, i) => {
                     return (
                         <Row key={i}>
                             <Col md={4}>
-                                <img src={Profile_img} alt="Logo" height={82} width={82} />
+                                <img src={data.awardImg} alt="Logo" height={82} width={82} />
                             </Col>
                             <Col md={20} style={{ paddingLeft: "10px" }}>
                                 <div className='paragraph_h6_font16'>
-                                    {data.title}
+                                    {data.awardName}
                                 </div>
                                 <div className='paragraph_h6_font12'>
-                                    {data.text}
+                                    {data.awardDetails}
                                 </div>
                                 <div className='typography14px'>
-                                    {data.date}
+                                    year {data.year}
                                 </div>
                             </Col>
                             <Divider />
